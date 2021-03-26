@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: #f0e8c5;
+}
+
+#5 {
+    margin-top: 15px;
+}
+
+.1 {
+    display: flex;
+    justify-content: center
+}
+
+#imgs {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: #fff;
+}
+
+#h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    color: greenyellow;   
+}
