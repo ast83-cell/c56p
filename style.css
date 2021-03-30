@@ -1,6 +1,7 @@
 body {
-    text-align: center;
+    
     background-color: #f0e8c5;
+    text-align: center;
 }
 
 #5 {
@@ -8,15 +9,23 @@ body {
 }
 
 .1 {
+    
+justify-content: space-around;
     display: flex;
-    justify-content: center
 }
 
 #imgs {
-    margin-left: 25px;
-    margin-right: 25px;
+    
     background-color: #fff;
+    background-color: #f0e8c5;
+    border-style: dashed;
+    padding-top : 25px;
+        padding-right : 50px;
+padding-bottom : 75px;
+padding-left : 100px;
 }
+
+
 
 #h1{
     font-size: 50px;
